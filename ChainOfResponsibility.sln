@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainOfResponsibilityTest", "ChainOfResponsibilityTest\ChainOfResponsibilityTest.csproj", "{E96763B2-7585-42D5-A40A-07112D0B1BCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainOfResponsibility", "ChainOfResponsibility\ChainOfResponsibility.csproj", "{542E864C-0289-48B6-9832-C5AD32614F13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E96763B2-7585-42D5-A40A-07112D0B1BCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E96763B2-7585-42D5-A40A-07112D0B1BCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E96763B2-7585-42D5-A40A-07112D0B1BCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E96763B2-7585-42D5-A40A-07112D0B1BCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{542E864C-0289-48B6-9832-C5AD32614F13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{542E864C-0289-48B6-9832-C5AD32614F13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{542E864C-0289-48B6-9832-C5AD32614F13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{542E864C-0289-48B6-9832-C5AD32614F13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
